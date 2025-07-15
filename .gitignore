@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# General
+.DS_Store
